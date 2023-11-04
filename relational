@@ -1,0 +1,11 @@
+# include <stdio.h>
+int main()
+{
+    int a=14;
+    int b=23;
+    char c='v';
+    printf("a+b=%d",a+b);
+    printf("c=%c\n",c);
+    return 0;
+    
+}
