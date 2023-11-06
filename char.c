@@ -9,4 +9,4 @@ int main()
     c=100;
     printf("value of c:%c",c);
     return 0;
-}
+} 
