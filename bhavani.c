@@ -5,4 +5,4 @@ int main()
     int b=19;
     printf("a!=b of %d\n",a!=b);
     return 0;
-}
+}  
