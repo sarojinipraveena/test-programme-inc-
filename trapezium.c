@@ -8,5 +8,5 @@ int main()
     area = 0.5 * (a + b) * h ;
     printf("Area of the trapezium is: %.3f", area);
     return 0;
-}
+} 
 

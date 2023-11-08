@@ -10,8 +10,6 @@ int main()
      printf("subrcation of two numbers %d \n",a-b);
      printf("multiplication of two numbers %d \n",a*b);
      printf("divison of two numbers %d \n",a/b);
-     return 0;
+     printf("modulus of two numbers%d\n",a%b);
+ return 0;
 }
-
-
-   
