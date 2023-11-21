@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+    //declaring variables
     int a=10; 
     int     b=20;
     if(!(a>0 && b>0))
